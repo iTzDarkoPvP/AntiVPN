@@ -1,0 +1,11 @@
+kick-message: "§7Conexión Perdida\n \n§8[§e!] §l§fAnti§eVPN §l§8| §r§fSecurity §8[§e!§8]\n \n§fHas sido expulsado del servidor\npor el motivo de que estás usando\nVPN y eso no está permitido porfavor\ndesactiva el vpn para poder ingresar\nal servidor de forma normal\n \n§e¿Crees que esto es un error?\n§fContactanos en el servidor de discord\n \n§fhttps://discord.gg/T7X6Q36MRJ"
+global-broadcast-message: " \n§l§fAnti§eVPN §l§8| §r§fAtención el jugador con el nombre de §e{player} §fha intentado entrar al servidor usando vpn lo cuál no está permitido. La vpn usada es del país §e{pais}\n \n"
+
+command-no-permission: "§eNo tienes permiso para usar este comando."
+command-usage: " \n§l§fAnti§eVPN §l§8| §r§fUtiliza /vpn add <jugador> para que un jugador pueda entrar con vpn al servidor o /vpn del <jugador> para eliminar a jugador de la lista de usuarios que pueden usar vpn\n \n"
+command-player-added: " \n§l§fAnti§eVPN §l§8| §r§fEl jugador§e '{player}' §fha sido agregado a la whitelist de VPN\n \n"
+command-player-already-whitelisted: " \n§l§fAnti§eVPN §l§8| §r§fEl jugador§e '{player}' §fya esta en la whitelist de VPN\n \n"
+command-player-removed: " \n§l§fAnti§eVPN §l§8| §r§fEl jugador§e '{player}' §fha sido eliminado de la whitelist de VPN\n \n"
+command-player-not-whitelisted: " \n§l§fAnti§eVPN §l§8| §r§fEl jugador§e '{player}' §fno esta en la whitelist de VPN\n \n"
+
+vpn-whitelist: []

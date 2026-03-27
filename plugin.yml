@@ -1,0 +1,16 @@
+name: AntiVPN
+main: AntiVPN\Main
+version: §f2.0.0 By Darko
+api: [2.0.0]
+author: TuNombre
+description: Plugin Anti-VPN con whitelist de jugadores permitidos y config.yml avanzada
+commands:
+  vpn:
+    description: Administra la whitelist de VPN del servidor.
+    usage: ""
+    permission: antivpn.admin
+permissions:
+  antivpn.admin:
+    description: Permite a los jugadores usar los comandos de administracion del Anti-VPN.
+    default: op
+    
